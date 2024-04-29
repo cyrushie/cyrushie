@@ -9,3 +9,5 @@ sugune/sugune is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 
 --->
+
+<img align="left" src="https://pin.it/1cTKRRkUQ" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
